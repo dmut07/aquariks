@@ -10,7 +10,9 @@
   <img alt="pytelegrambotapi" src="https://img.shields.io/badge/-pytelegrambotapi-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
+
 ---
+
 <h3>
   📞 Связаться со мной
 </h3>
