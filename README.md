@@ -1,2 +1,2 @@
 ## Привет, я Муталиев Данила! 👋
-![](https://komarev.com/ghpvc/?username=dmut07&color=#330066)
+![](https://komarev.com/ghpvc/?username=dmut07&color=red)
