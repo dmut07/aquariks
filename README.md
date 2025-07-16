@@ -1,7 +1,4 @@
 <h2> Привет, я Муталиев Данила! 👋 </h2>
-
-***
-
 <h3>🛠 Технологии, с которыми я дружу</h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
