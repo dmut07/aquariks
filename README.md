@@ -11,7 +11,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
----
+***
 
 <h3>
   📞 Связаться со мной
