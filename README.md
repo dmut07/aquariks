@@ -15,9 +15,7 @@
   📞 Связаться со мной
 </h3>
 
-<a href="mailto:your.email@gmail.com">
-  <img alt="gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+[![telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dmut07)
 
 
 ![](https://komarev.com/ghpvc/?username=dmut07&color=red)
