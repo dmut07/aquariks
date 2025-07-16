@@ -15,6 +15,9 @@
   📞 Связаться со мной
 </h3>
 
-[![gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<a href="mailto:your.email@gmail.com">
+  <img alt="gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
 
 ![](https://komarev.com/ghpvc/?username=dmut07&color=red)
