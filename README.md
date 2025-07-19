@@ -16,6 +16,8 @@
   <img alt="machine learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="csharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="dotnet" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="api" src="https://img.shields.io/badge/-API-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img alt="json" src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white" />
 
 </p>
 
