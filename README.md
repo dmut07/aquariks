@@ -13,6 +13,9 @@
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="blockchain" src="https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   <img alt="machine learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="csharp" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+
 </p>
 
 ***
