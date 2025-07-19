@@ -11,6 +11,8 @@
   <img alt="linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="blockchain" src="https://img.shields.io/badge/-Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+  <img alt="machine learning" src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 
 ***
