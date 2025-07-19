@@ -5,6 +5,7 @@
   <img alt="pygame" src="https://img.shields.io/badge/-Pygame-376D5C?style=flat-square&logo=python&logoColor=white" />
   <img alt="pytelegrambotapi" src="https://img.shields.io/badge/-pytelegrambotapi-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
