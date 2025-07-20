@@ -30,6 +30,3 @@
 </h3>
 
 [![telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dmut07)
-
-
-![](https://komarev.com/ghpvc/?username=dmut07&color=red)
